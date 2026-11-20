@@ -1,0 +1,35 @@
+{
+  "name": "ik-clean-fast-te-mobile-friendly-web",
+  "version": "1.0.0",
+  "description": "Ik clean, fast, te mobile-friendly web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node test-verify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhuweb/ik-clean-fast-te-mobile-friendly-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sidhuweb/ik-clean-fast-te-mobile-friendly-web/issues"
+  },
+  "homepage": "https://github.com/sidhuweb/ik-clean-fast-te-mobile-friendly-web#readme",
+  "dependencies": {
+    "lucide-react": "^1.77.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.8"
+  }
+}

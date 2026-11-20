@@ -3,6 +3,19 @@
   "name": "Ik clean, fast, te mobile-friendly web",
   "createdAt": "2026-11-20T07:23:27.331Z",
   "filename": "95e62e6b-bb22-4186-bce0-6b8df4a01fd0.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "4053b899-2528-423e-ba9b-6bf8b7b69307",
+      "role": "user",
+      "content": "Ik clean, fast, te mobile-friendly web app banao (jo iPhone 15 Pro de Safari/Chrome browser vich smooth chale) jiska naam \"Carousel & Weekly Desk\" hove. Eh app ik freelance graphic designer layi hai jo fitness coaches de Canva designs bnaonda hai (Canva Pro Lite nal use krn layi).\n\nMain features te rules eh ne:\n\n1. Weekly Schedule (Monday to Sunday):\n   - Monday: Shivam (Testimonial Carousel)\n   - Tuesday: Dalwinder (Testimonial Carousel), Karanpratap (Testimonial Carousel), Sukhsher (Testimonial Carousel)\n   - Wednesday: Dalwinder (Tweet Carousel), Shivam (Tweet Carousel)\n   - Thursday: Hardik (Tweet Carousel)\n   - Friday: Shivam (Tweet Carousel)\n   - Saturday: Hardik (Testimonial Carousel), Pawandeep (Single Slide Tweet), Sukhsher (Tweet Carousel)\n   - Sunday: Karanpratap (Tweet Carousel), Pawandeep (Single Slide Tweet)\n   Har client nal status tag vi dikhaao (Active, On Hold, Not Started — default vich Shivam, Dalwinder, Sukhsher, Pawandeep Active; Karanpratap Not Started; Hardik On Hold, par user kisi vi vele status change kar sake). Kise vi din de item te click krde hi oh data Slide Generator vich load ho jave.\n\n2. Input Section:\n   - Client selector (Shivam, Dalwinder, Karanpratap, Sukhsher, Hardik, Pawandeep).\n   - Format selector: \"Testimonial Carousel\", \"Tweet Carousel (4-6 Slides)\", te \"Single Slide Tweet\".\n   - Raw input box: jithe user coach di video transcript/summary, raw notes, ja client testimonial text paste kar sake.\n   - Photo & Mood details: image kaisi hai (dark background, bright/busy photo, clean studio, before-after, client screenshot) te moodboard/reference style notes.\n\n3. Strict Content & Design Rules (Koi AI Slop Nahi, 100% Editable Canva Workflow):\n   - Copy bilkul natural, crisp, te human hona chahida hai — robotic ya cheesy AI lines bilkul nahi.\n   - Koi fixed brand color na lagao jadon tak us run layi alag na daseya jave; isdi jagah image di lighting te mood de hisab nal high-contrast readable text color te sirf 1-2 highlight words layi accent color suggest karo.\n   - Fonts sirf ehna 3 vichon hi suggest karo: \"Advercase Demo\", \"Poppins\", \"DM Sans\".\n   - Testimonial Carousel layi:\n     * Slide 1: Coach image + hook/quote + highlight words.\n     * Middle slides (1 ya 2): Client screenshot / before-after / proof details.\n     * Last slide: Coach image + Link-in-Bio CTA.\n   - Tweet Carousel layi: 4 ton 6 slides da clean, logical flow banao.\n   - Pawandeep da tweet hamesha \"Single Slide Tweet\" hi rakho (4-6 slides vich nahi todna) — ik single slide da crisp text, highlight words, te layout suggestion do.\n\n4. Output Section:\n   - Har slide da alag card banao jithe exact text, highlight krn wale words, recommended font pairing (Advercase Demo / Poppins / DM Sans), te contrast text/highlight color suggestion hove.\n   - Har slide da text 1-click copy krn da button hove, te saari slides da data \"Canva Bulk Create\" layi CSV format vich download/copy krn da option hove.\n   - UI simple, clean, te mobile screen te aasan nal chaln wala rakho (bina bhaari animations de).",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-20T07:23:29.975Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
